@@ -1,0 +1,61 @@
+@media(max-width:768px){
+    .logo-1{
+   margin: 0 0 0 700px;
+    }
+    .logo-3{
+        margin: 20px -500px 20px 0 ;
+    } 
+    .logo-4{
+
+       margin: 30px -550px 0 0 ;
+        display: flex;
+        text-align: center;
+      justify-content: space-between;
+    }
+    .ainek img{
+        margin: 0 0 0 -100px;
+        width: 1530px ;
+    }
+    .logo-9 {
+      display:block;
+      }
+   
+
+
+} 
+@media(min-width:425px){
+
+    .container{
+      width: 70%;
+    }
+    .logo-9 {
+    display:none;
+    }
+  .logo-6{
+    margin: 0 30px;
+  }
+  .logo-6 img{
+    flex-wrap: wrap;
+    margin: 20px 0;
+    width: 395px;
+height: 405px;
+}
+.logo-6 h2{
+    color: var(--Dark-Primary, #2A254B);
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: 140%;
+}
+.logo-6 span{
+    margin: -4px 0 0 0;
+    color: var(--Dark-Primary, #2A254B);
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 140%;
+}
+  
+
+}
+ 

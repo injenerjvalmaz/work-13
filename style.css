@@ -1,0 +1,220 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+a{
+
+    text-decoration: none;
+}
+.header{
+  flex-wrap: wrap;
+}
+.logo-1{
+    margin: 20px 0;
+   align-items: center;
+   justify-content: center;
+    display: flex;
+}
+.logo-1 h1{
+    margin: 0 700px 10px 600px;
+    color: #22202E;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.logo-1 span{
+    fill: var(--Transparent, #FFF);
+    background-blend-mode: multiply;
+}
+.logo-2{
+    margin: 0 0 0 -200px ;
+    width: 1550px;
+    height: 1px;
+    background: rgba(0, 0, 0, 0.10);
+}
+.logo-3{
+   margin: 20px 0;
+   text-align: center;
+}
+.logo-3 a{
+    margin:20px 23px;
+    color: #726E8D;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.hero{
+    margin: 0 50px 0 0;
+    flex-wrap: wrap;
+}
+.ainek img{
+    margin: 0 0 0 -120px;
+    width: 1530px ;
+}
+.logo-4{
+
+    margin: 30px 0;
+    display: flex;
+    text-align: center;
+  justify-content: space-between;
+}
+.logo-4 a{
+    color: var(--Dark-Primary, #2A254B);
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; 
+ margin:0  35px;
+}
+.logo-6{
+    margin: 0 30px;
+ flex-wrap: wrap;
+}
+.logo-6 img{
+    flex-wrap: wrap;
+    margin: 20px 0;
+    width: 305px;
+height: 375px;
+}
+.logo-6 h2{
+    color: var(--Dark-Primary, #2A254B);
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 140%;
+}
+.logo-6 span{
+    margin: -4px 0 0 0;
+    color: var(--Dark-Primary, #2A254B);
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 140%;
+}
+.logo-5 {
+    display: flex;
+    justify-content: space-between;
+}
+.legenda-1 h1{
+    margin: 40px -670px 30px 0;
+   justify-content: center;
+   text-align: center ;
+}
+  #lanser{
+width: 1510px;
+height: 420px;
+background: var(--Dark-Primary, #2A254B);
+}
+.lanser{
+   padding: 70px 0;
+    justify-content: space-between;
+    display: flex;
+}
+.legenda-2 p{
+    color: var(--White, #FFF);
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 38px;
+}
+.legenda-3 p{
+    color: var(--White, #FFF);
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 38px;
+}
+
+.legenda-4 p{
+    color: var(--White, #FFF);
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 38px;
+}
+.legenda-5{
+margin: 40px 0;
+}
+.legenda-5 h1{
+    margin: 30px 0;
+    color: var(--White, #FFF);
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.legenda-6{
+    justify-content: space-between;
+    display: flex;
+    width: 500px;
+    height: 60px;
+    background: rgba(255, 255, 255, 0.15)
+}
+.legenda-6 h2{
+ margin: 20px 7px;
+    color: var(--White, #FFF);
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.present-1{
+    margin: -70px 0 0 0 ;
+    width: 1300px;
+    height: 2px;
+    background: #4E4D93;
+}
+.present-2{
+    justify-content: space-between;
+    margin: 20px 30px 0 0 ;
+    display: flex;
+    justify-content: space-between;
+}
+.present-4 {
+    fill: var(--Transparent, #FFF);
+background-blend-mode: multiply;
+}
+.present-3 p{
+    color: var(--White, #FFF);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.present-4 span{
+    color: #FFF;
+    margin: 0 8px ;
+   font-size: 30px;
+}
+ .logo-9{
+ 
+}
+.logo-9 img{
+    flex-wrap: wrap;
+    margin: 20px 0;
+    width: 305px;
+height: 375px;
+}
+.logo-9 h2{
+    color: var(--Dark-Primary, #2A254B);
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 140%;
+}
+.logo-9 span{
+    margin: -4px 0 0 0;
+    color: var(--Dark-Primary, #2A254B);
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 140%;
+} 
